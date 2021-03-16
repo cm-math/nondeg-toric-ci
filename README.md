@@ -64,6 +64,7 @@ i.e., triples (Q, mu, T) where
 42
 ```
 We examine some arbitrary entries.
+The file `output` contains the complete list `SD`.
 ```
 > SD[1];
 [*
