@@ -145,7 +145,7 @@ end function;
 //============================================================================= 
 /* TerminalConstraint
  * ----------------------------------------------------------------------------
- * Check if the condition from Lemma 1.7.3 (ii) is fullfilled for
+ * Check if the condition from Lemma 5.3 (ii) is fullfilled for
  * each n-dimensional cone.
  * 
  * Input.
@@ -172,7 +172,7 @@ end function;
 //============================================================================= 
 /* TorsionBound
  * ----------------------------------------------------------------------------
- * Compute bound on order of cyclic factors of Cl(Z) as in Lemma 1.7.2.
+ * Compute bound on order of cyclic factors of Cl(Z) as in Lemma 5.2
  * 
  * Input.
  * x: Seq[RngIntElt]
@@ -699,7 +699,7 @@ end function;
 //============================================================================= 
 // Classification of terminal Fano threefolds
 //-----------------------------------------------------------------------------
-// Perform the computions for the proof of Theorem 1.1.3.
+// Perform the computions for the proof of Theorem 1.3.
 // 
 // Output.
 // A list of lists [* Q, mu, T *] where
